@@ -1,0 +1,23 @@
+#body {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: #333333;
+}
+
+#button-holder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    height: 200px;
+    width: 600px;
+    border: 1px solid #000000;
+    background-color: #0000005e;
+}
+
+.btn {
+    margin-left: 10px;
+    margin-right: 10px;
+}

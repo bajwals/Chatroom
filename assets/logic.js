@@ -1,0 +1,8 @@
+function createColorPicker() {
+
+};
+
+function pickColor() {
+
+};
+
