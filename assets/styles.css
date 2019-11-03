@@ -11,10 +11,11 @@
     align-items: center;
     justify-content: center;
     margin-top: 100px;
-    height: 200px;
+    height: 100px;
     width: 600px;
     border: 1px solid #000000;
     background-color: #0000005e;
+    border-radius: 25px;
 }
 
 .btn {
